@@ -66,4 +66,4 @@
 - ✉️ **Email** : gueddarihana5@gmail.com  
 - 📱 **Téléphone** : (+216) 99322217  
 - 📍 **Localisation** : Bekalta, Monastir, Tunisie  
-- 🌐 **GitHub** : [Hana Gueddari (aproxcoding)](https://github.com/aproxcoding)
+- 🌐 **GitHub** : [Hana Gueddari](https://github.com/hanagueddari)
