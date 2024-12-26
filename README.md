@@ -67,3 +67,4 @@
 - 📱 **Téléphone** : (+216) 99322217  
 - 📍 **Localisation** : Bekalta, Monastir, Tunisie  
 - 🌐 **GitHub** : [Hana Gueddari](https://github.com/hanagueddari)
+- 💼 **LinkedIn** : [Hana Gueddari](https://www.linkedin.com/in/hana-gueddari)
