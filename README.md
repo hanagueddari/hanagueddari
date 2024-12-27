@@ -5,9 +5,13 @@
 Je suis une **Data Scientist** diplômée d'un Master en Sciences des Données et d'une Licence en Systèmes Embarqués et Internet des Objets. Passionnée par l'apprentissage automatique, le traitement du langage naturel et le développement de solutions innovantes, je suis motivée à utiliser mes compétences pour résoudre des problèmes complexes et contribuer à des projets créatifs.
 
 📍 **Localisation :** Bekalta, Monastir, Tunisie  
+
 📫 **Email :** gueddarihana5@gmail.com  
+
 📱 Téléphone : (+216) 99322217
+
 🔗 **LinkedIn :** [Hana Gueddari](https://www.linkedin.com/in/hana-gueddari/)  
+
 🔗 **GitHub :** [Hana Gueddari](https://github.com/hanagueddari)  
 
 ---
