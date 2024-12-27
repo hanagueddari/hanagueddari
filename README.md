@@ -54,7 +54,6 @@ Conception d’un système de contrôle à distance pour la sécurité et l’ef
 ## 📚 Projets académiques
 
 - Classification d'images avec un **réseau de neurones convolutionnel (CNN)**.  
-- Modèle d’arbre de décision pour prédire la probabilité de diabète.  
-- Modèle KNN pour évaluer la compatibilité des téléphones mobiles avec la technologie 4G.  
+- Modèle d’arbre de décision pour prédire la probabilité de diabète.   
 - Création de modèles prédictifs avec des forêts aléatoires, arbres de décision et SVM.
 
