@@ -27,12 +27,14 @@ Je suis une **Data Scientist** diplômée d'un Master en Sciences des Données e
 
 ---
 
-## 📜 Parcours académique
+## 🎓 Parcours Académique
 
 - **2022-2024 :** Master Professionnel en Sciences des Données  
-  *Institut Supérieur d'Informatique de Mahdia*  
-- **2019-2022 :** Licence en ingénierie des systèmes informatiques
-  *Institut Supérieur d'Informatique de Mahdia*  
+  *Institut Supérieur d'Informatique de Mahdia, Tunisie*  
+
+- **2019-2022 :** Licence en Ingénierie des Systèmes Informatiques  
+  *Institut Supérieur d'Informatique de Mahdia, Tunisie*  
+ 
 
 ---
 
