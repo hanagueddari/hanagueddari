@@ -31,7 +31,7 @@ Je suis une **Data Scientist** diplômée d'un Master en Sciences des Données e
 
 - **2022-2024 :** Master Professionnel en Sciences des Données  
   *Institut Supérieur d'Informatique de Mahdia*  
-- **2019-2022 :**  Licence en ingénierie des systèmes informatiques
+- **2019-2022 :** Licence en ingénierie des systèmes informatiques
   *Institut Supérieur d'Informatique de Mahdia*  
 
 ---
