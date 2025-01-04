@@ -54,16 +54,21 @@ Conception d’un système de contrôle à distance pour la sécurité et l’ef
 ## 📚 Projets académiques
 
 📷 Classification d'images
--Développement d’un modèle de classification basé sur un réseau de neurones convolutionnel (CNN) avec TensorFlow.
+-Développement d’un modèle de classification basé sur un réseau de neurones convolutionnel (CNN) avec TensorFlow. 
+
 -Objectif : Catégoriser des paysages naturels en six classes distinctes.
+
 -Technologies : Python, TensorFlow, Keras
 
 🩺 Prédiction du diabète
 -Analyse des indicateurs de santé pour prédire le diabète à l’aide de modèles de machine learning (Decision Tree, Logistic Regression, SVM).
+
 -Points clés : Gestion des déséquilibres de classes et évaluation des modèles avec des métriques comme la précision et les matrices de confusion.
+
 -Technologies : Python, Pandas, Scikit-learn, Matplotlib, Seaborn
 
 🏢 Prédiction de l'attrition des employés
 -Analyse des données RH et conception de modèles de machine learning (Decision Tree, Random Forest, SVM, Neural Networks) pour anticiper l’attrition des employés.
+
 -Technologies : Python, Pandas, Scikit-learn, TensorFlow
 
