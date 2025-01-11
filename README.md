@@ -10,9 +10,7 @@ Je suis une **Data Scientist** diplômée d'un Master en Sciences des Données e
 
 📱 Téléphone : (+216) 99322217
 
-🔗 **LinkedIn :** [Hana Gueddari](https://www.linkedin.com/in/hana-gueddari/)  
-
-🔗 **GitHub :** [Hana Gueddari](https://github.com/hanagueddari)  
+🔗 **LinkedIn :** [Hana Gueddari](https://www.linkedin.com/in/hana-gueddari/)   
 
 ---
 
